@@ -20,6 +20,7 @@ Bandpower Add-on
 
 MaxMSP required packages:
 - FluidCorpusManipulation by FluCoMa
+- Java 8
 
 ####################################################################
 ##### USAGE ########################################################
@@ -30,13 +31,15 @@ MaxMSP required packages:
 
 3. Restart the app
 
-4. Open FinalProject.maxproj. Open Start00.maxpat
+4. Open FinalProject.maxproj
+   
+5. Open Start00.maxpat
 
-5. On first usage you might need to change the serial port message to same port of the Unicorn App - Exit presentation mode and set the right @port (top Left corner of the screen)
+6. On first usage you might need to change the serial port message to same port of the Unicorn App - Exit presentation mode and set the right @port (top Left corner of the screen)
 
-6. Turn On the communtication from serial port.
+7. Turn On the communtication from serial port.
 
-7. Activate Audio Engine and Enjoy!!
+8. Activate Audio Engine and Enjoy!!
 
 ####################################################################
 ####################################################################
