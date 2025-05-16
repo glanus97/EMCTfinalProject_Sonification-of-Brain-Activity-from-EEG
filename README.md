@@ -30,7 +30,7 @@ MaxMSP required packages:
 
 3. Restart the app
 
-4. Open START.maxpat
+4. Open FinalProject.maxproj. Open Start00.maxpat
 
 5. On first usage you might need to change the serial port message to same port of the Unicorn App - Exit presentation mode and set the right @port (top Left corner of the screen)
 
