@@ -7,6 +7,8 @@ EEG-Driven Generative Sound Installation - Project based on MaxMSP using a Unico
 This project transforms real-time brainwave signals into an immersive sonic experience. Using advanced electroencephalography(EEG) data from a g.Tec Unicorn Hybrid Black headset linked to the software Max/MSP, this interactive installation creates a generative soundscape that evolves in response to the user's brain activity. Brain signals—such as those associated with focus, relaxation, or cognitive load—are mapped to musical parameters like tempo, harmony, and texture.
 The headset measures seven frequency bands: Delta, Theta, Alpha, Beta Low, Beta Mid, Beta High, and Gamma. These are averaged and compared to estimate the user's mental state. Lower frequencies (Delta, Theta) are associated with rest, meditation, and deep relaxation, while higher frequencies (Alpha, Beta, Gamma) relate to concentration, stress, or heightened alertness. The soundscape moves between these five moods based on these signals, aiming to create a reflection of the participant's brain activity.
 The work draws on research in music psychology, neuroscience, and brain-computer interfaces to explore how subjective internal experiences can be meaningfully expressed through sound and how sound, in return, can influence the human mind. Visitors are invited to experience music not only as an art form but as a direct reflection of their own mind in motion.
+
+
 Gabriel Lanús (2025)
 alias MALASVERTE //
 
