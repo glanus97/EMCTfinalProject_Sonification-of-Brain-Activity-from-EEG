@@ -1,5 +1,5 @@
 ###################################################################
-###### README ###### (Sonification-of-Brain-Activity VERSION 0.1] #
+###### README ###### (Sonification-of-Brain-Activity VERSION 1.0] #
 ###################################################################
 
 EEG-Driven Generative Sound Installation - Project based on MaxMSP using a Unicorn Hybrid Black EEG headset to read brainwave data. 
