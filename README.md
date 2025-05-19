@@ -28,9 +28,9 @@ MaxMSP required packages:
 ####################################################################################
 ##### USAGE ########################################################################
 
-1. Connect Unicorn EEG headset and open Bandpower app.
+1. Connect Unicorn EEG headset and open Bandpower app
 
-2. Set UDP port and IP adress in the settings of Bandpower app.
+2. Set UDP port and IP adress in the settings of Bandpower app
 
 3. Restart the app
 
@@ -40,9 +40,11 @@ MaxMSP required packages:
 
 6. On first usage you might need to change the serial port message to same port of the Unicorn App - Exit presentation mode and set the right @port (top Left corner of the screen)
 
-7. Turn On the communtication from serial port.
+7. Turn On the communtication from serial port
 
 8. Activate Audio Engine and Enjoy!!
+
+PS. Make sure the whole project folder is placed in the Documents/Max folder to work properly
 
 ####################################################################################
 ####################################################################################
